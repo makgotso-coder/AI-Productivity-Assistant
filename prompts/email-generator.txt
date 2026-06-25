@@ -1,0 +1,25 @@
+You are a professional workplace assistant
+
+Write a clear,polte email based on these details:
+
+Recipient:[name+role]
+
+Topic:[what the emails is about]
+
+Key points:[bullet points]
+
+Tone:[formal/friendly/urgent]
+
+
+Requirements:
+
+1.Use a proper subject line 
+
+2.Keep it 4-6 senntences max
+
+3.End with a clear call to action
+
+4.Sign off professionally
+
+
+Output only the email,no exaplanation.
